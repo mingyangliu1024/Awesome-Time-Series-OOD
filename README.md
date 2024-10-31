@@ -5,11 +5,11 @@ A curated list of transfer learning methods for time series.
 
 # Table of Contents
 
-- [Domain Adaptation](https://github.com/mingyangliu1024/Awesome-Time-Series-Transfer-Learning?tab=readme-ov-file#Unsupervised domain adaptation)
-  - [Unsupervised domain adaptation](#Unsupervised domain adaptation)
-  - [Universal domain adaptation](#Universal domain adaptation)
-- [Domain Generalization](#Domain Generalization)
-- [Semi-supervised Learning](#Semi-supervised Learning)
+- [Domain Adaptation](#Unsupervised-domain-adaptation)
+  - [Unsupervised domain adaptation](#Unsupervised-domain-adaptation)
+  - [Universal domain adaptation](#Universal-domain-adaptation)
+- [Domain Generalization](#Domain-Generalization)
+- [Semi-supervised Learning](#Semi-supervised-Learning)
 
 ## 💡Tips:
 
