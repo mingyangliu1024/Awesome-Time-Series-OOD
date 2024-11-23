@@ -23,14 +23,15 @@ A curated list of transfer learning methods for time series.
 - `RAINCOAT` **Domain Adaptation for Time Series Under Feature and Label Shifts.** ICML 2023.  
   [[Paper](https://proceedings.mlr.press/v202/he23b.html)] [[Code](https://github.com/mims-harvard/Raincoat)]
 
+- `RCD-KD` **Reinforced Cross-Domain Knowledge Distillation on Time Series Data** NeurIPS 2024.  
+  [[Paper](https://openreview.net/pdf?id=tUHABDZP0Q)] [[Code](https://github.com/xuqing88/Reinforced-Cross-Domain-Knowledge-Distillation-on-Time-Series-Data)]
+
 - `ACON` **Boosting Transferability and Discriminability for Time Series Domain Adaptation.** NeurIPS 2024.  
-  [[Code](https://github.com/mingyangliu1024/ACON)] 
+  [[Paper](https://openreview.net/pdf?id=cIBSsXowMr)] [[Code](https://github.com/mingyangliu1024/ACON)] 
 
 ## Universal domain adaptation
 
 ### Paper List
-
-#### 2023 
 
 - `RAINCOAT` **Domain Adaptation for Time Series Under Feature and Label Shifts.** ICML 2023.  
   [[Paper](https://proceedings.mlr.press/v202/he23b.html)] [[Code](https://github.com/mims-harvard/Raincoat)]
@@ -41,10 +42,10 @@ A curated list of transfer learning methods for time series.
 ### Paper List
 
 
-
 ## Semi-supervised Learning
-
 ### Paper List
+- `TS-TFC` **Temporal-Frequency Co-training for Time Series Semi-supervised Learning** AAAI 2023.
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26072)] [[Code](https://github.com/qianlima-lab/TS-TFC)]
 
-- 
+
 
