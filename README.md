@@ -44,6 +44,9 @@ A curated list of transfer learning methods for time series.
 
 ### Paper List
 
+- `DIVERSIFY` **Out-of-distribution Representation Learning for Time Series Classification.** ICLR 2023. 
+  [[Paper](https://openreview.net/pdf?id=gUZWOE42l6Q)] [[Code](https://github.com/microsoft/robustlearn/tree/main/diversify)]
+
 
 ## Semi-supervised Learning
 ### Paper List
