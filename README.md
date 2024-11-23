@@ -45,6 +45,7 @@ A curated list of transfer learning methods for time series.
 ## Semi-supervised Learning
 ### Paper List
 - `TS-TFC` **Temporal-Frequency Co-training for Time Series Semi-supervised Learning.** AAAI 2023.
+
   [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26072)] [[Code](https://github.com/qianlima-lab/TS-TFC)]
 
 
