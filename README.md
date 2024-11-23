@@ -20,6 +20,9 @@ A curated list of transfer learning methods for time series.
 
 ### Paper List
 
+- `CLUDA` **Contrastive Learning for Unsupervised Domain Adaptation of Time Series.** ICLR 2023.
+  [[Paper](https://openreview.net/forum?id=xPkJYRsQGM)]
+
 - `RAINCOAT` **Domain Adaptation for Time Series Under Feature and Label Shifts.** ICML 2023.  
   [[Paper](https://proceedings.mlr.press/v202/he23b.html)] [[Code](https://github.com/mims-harvard/Raincoat)]
 
