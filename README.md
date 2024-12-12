@@ -40,6 +40,13 @@ A curated list of transfer learning methods for time series.
   [[Paper](https://proceedings.mlr.press/v202/he23b.html)] [[Code](https://github.com/mims-harvard/Raincoat)]
 
 
+## Source-free domain adaptation
+
+### Paper List
+
+- `MAPU` **Source-free domain adaptation with temporal imputation for time series data.** KDD 2023.
+   [[Paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599507)]  [[Code](https://github.com/mohamedr002/MAPU_SFDA_TS)]
+
 ## Domain Generalization
 
 ### Paper List
